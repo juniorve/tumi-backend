@@ -11,7 +11,7 @@
 	<groupId>com.tumi</groupId>
 	<artifactId>tumiapp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<packaging>war</packaging>
+	<packaging>jar</packaging>
 	<name>tumiapp</name>
 	<description>Demo project for Spring Boot</description>
 
